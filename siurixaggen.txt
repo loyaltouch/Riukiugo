@@ -1,0 +1,18 @@
+琉球語(首里方言)	segsyoxafu	意味	備考
+?aa	ava1	泡	
+?aabuku	abuku1	あぶく	
+?aa=juN	a1fu	合う	
+?aaka=sjuN	akasu	開かす(?)	
+?aakezuu	akitu	秋津	
+?aaki	aki	開き(?)	
+?aaki=juN	akayru	開ける	
+?aamui	ava1mori	泡盛	
+?aasa	avosa	あおさ	
+?aa=sjuN	afase1ru	合わせる	
+?abaraja	abara1ja	あばら家	
+?abi=juN	vame1ku	喚く(?)	動詞=クは琉球語で=cunになりそうなので違う?
+?abui	abumi	鐙
+?abu=juN	aburu	炙る
+?abunajyaN	abuna1i	危ない	元来は?ukaasjaN
+?aca	a1sa	朝
+?aci	a1ki	秋
