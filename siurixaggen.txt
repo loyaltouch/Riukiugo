@@ -16,3 +16,24 @@
 ?abunajyaN	abuna1i	危ない	元来は?ukaasjaN
 ?aca	a1sa	朝
 ?aci	a1ki	秋
+?atsima=juN	atuma1ru	集まる	元来はsurijuN
+?acinee	akina1fi	商い
+?atsiree=juN	atura1fayru	あつらえる
+?atsisaN	atu1i	暑い
+?atsisaN	atu1i	厚い
+?agai	agari	上がり	地面の高いところ。かみ。sagaiの対
+?aga=juN	agaru	上がる
+?agami=juN	agamayru	崇める
+?agari	agari	東	?agaiとなぜ形がことなる？？
+?agi	agay	上げ	歌・三味線などの高い音の部分
+?agi=juN	agayru	上げる
+?afwiraa	axiru	あひる
+?ai	ari	蟻
+?ajamaci	ajamati	過ち
+?ajamai	ajama1ri	誤り
+?ajaQsan	ajafu1i	危うい
+?aju=nuN	aju1mu	歩む
+?aka	aka	垢
+?aka	a1ka	赤
+?akatsici	akatukuy	暁
+?akamaamii	akamame	赤豆	小豆
